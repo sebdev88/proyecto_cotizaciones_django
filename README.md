@@ -1,2 +1,2 @@
 # Proyecto_Adecar
-Consistira en el levantamiento de un sistema de calculo y cotización automatica para la empresa que fabrica cajas de carton a mediada denominada como ADECAR
+Este proyecto fue creado para cálculo y cotizaciones de cajas a medida. Los cálculos y valores que están, han sido modificados para proteger la privacidad de los clientes.
